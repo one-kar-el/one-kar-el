@@ -1,6 +1,5 @@
 ### Hallo 👋
-Willkommen auf meinem Github-Profil. Ich lerne Deutsch und wie man mit Python programmiert :smile:
-(Welcome to my Github profile. I'm learning German and how to code with Python)
+Welcome to my Github profile. I'm learning how to code with Python 😄
 
 <!--
 **one-kar-el/one-kar-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
